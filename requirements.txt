@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+spacy
+sentence-transformers
+openai
+python-dotenv
+torch
+transformers
+datasets
+scikit-learn
+pandas
+accelerate>=1.1.0
+torch-directml
+pytesseract
+Pillow
